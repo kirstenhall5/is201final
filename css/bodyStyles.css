@@ -1,0 +1,42 @@
+body {
+    font-family: Georgia, Courier, monospace;
+    background-color: rgb(199, 184, 213)
+    color: aliceblue
+    backgound-image: url(https://photos.com/featured/seamless-repeating-background-tile-terryfic3d.html)
+
+}
+a{
+color: aqua;
+}
+a: :visited{
+    color: gray;
+}
+a:hover{
+font-size: 110%;
+}
+img{
+    display: block;
+    width: 25%;
+    border: solid white 5px;
+    padding: 3px;
+    margin: auto;
+
+}
+.riz{
+    font-family: chiller, 'comic sans', wingdings, engravers, serif;
+    color: coral
+    engravers, serif; 
+    font-size: xx-large
+    border: solid aqua 1px
+    background-color: limegreen
+    
+
+}
+.riz:hover{
+    display: block;
+    text-align: center; 
+    font-size: 300%;
+}
+
+
+
